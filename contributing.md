@@ -10,7 +10,6 @@ little bit helps, and credit will always be given.
   - [Fix Bugs](#fix-bugs)
   - [Implement Features](#implement-features)
   - [Improve Documentation](#improve-documentation)
-  - [Submit Feedback](#submit-feedback)
 
 
 # Types of Contributions
@@ -34,18 +33,9 @@ hooks, macros and executors are very welcomed!
 
 ## Improve Documentation
 
-AINGUS could always use better documentation,
+Anguis could always use better documentation,
 whether as part of the official Anguis docs,
 in docstrings, `docs/*.rst` or even on the web as blog posts or
 articles.
 
-## Submit Feedback
-
-The best way to send feedback is to open an issue on JIRA
-
-If you are proposing a feature:
-
-- Explain in detail how it would work.
-- Keep the scope as narrow as possible, to make it easier to implement.
-- Remember that this is a volunteer-driven project, and that contributions are welcome :)
 
