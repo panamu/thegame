@@ -15,7 +15,7 @@ describe('CoordinateService', () => {
                            new Coordinate(2, 1),
                            new Coordinate(1, 1)];
 
-        player.changeDirection(Direction.LEFT);
+        player.changeDirection(Direction.RIGHT);
         CoordinateService.movePlayer(player);
         let expectedSegments = [new Coordinate(6, 1),
                                 new Coordinate(5, 1),
