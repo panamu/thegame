@@ -1,7 +1,7 @@
 
 > ANGUIS
 
-> Azure Pipelines badge here
+> [![Build Status](https://dev.azure.com/nsucheendran/nsucheendran/_apis/build/status/anguis-exp.thegame?branchName=master)](https://dev.azure.com/nsucheendran/nsucheendran/_build/latest?definitionId=2&branchName=master)
 
 > Nimcy , Sujan , Padmini 
 
